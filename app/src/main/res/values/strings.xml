@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoGreen</string>
+    <string name="onBoardingTitle1">Our pickup arrives at your door step </string>
+    <string name="onBoardingText1">First and common service is you can book a pick up truck for your area with just basic details </string>
+    <string name="onBoardingTitle2">Clean your area with just one click</string>
+    <string name="onBoardingText2">If you find a area with garbage just opn application and take photo and upload we will clean it as soon as possible</string>
+    <string name="onBoardingTitle3">Book Dustbin just by request us</string>
+    <string name="onBoardingText3">If any public place or hospital  don\'t have a proper dustbin then just request us  we will provide you a dustbin</string>
+
+</resources>
