@@ -67,7 +67,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ![WhatsApp Image 2024-05-03 at 12 34 06_dc06f1f0](https://github.com/Sgoldiy/Garbage_Cleaning_Services/assets/165880152/46ba6647-c162-4027-a790-7eec28a149a4)
 ![WhatsApp Image 2024-05-03 at 12 34 06_fe598fed](https://github.com/Sgoldiy/Garbage_Cleaning_Services/assets/165880152/d194bbfe-f41a-4fcd-bbb8-63557c7aea36)
 ![WhatsApp Image 2024-05-03 at 12 34 06_d6e789cf](https://github.com/Sgoldiy/Garbage_Cleaning_Services/assets/165880152/6dc7fa33-b10d-4401-ad4d-17cc66772801)
-![WhatsApp Image 2024-05-03 at 12 34 07_a4a162b2](https://github.com/Sgoldiy/Garbage_Cleaning_Services/assets/165880152/7cd01ac5-c015-4a3b-83ab-458cfdbeb859)
 
 
 
